@@ -1,2 +1,0 @@
-**OVERVIEW**
-We build and evaluate different strategies to paraphrase natural language. In this project, we have several built-in paraphrasing strategies. We also have a benchmark framework to evaluate the quality of paraphrase. In particular, we use the BERT language model to measure how meaningful is the paraphrased text. We use a Universal Sentence Encoder to evaluate the semantic similarity between original and paraphrased text. We also train a BERT classifier on the original dataset, and check of paraphrased sentences can break the text classifier.
